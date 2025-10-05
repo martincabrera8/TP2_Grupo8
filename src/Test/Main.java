@@ -60,7 +60,7 @@ public class Main {
 
         /*--------------------------------------------------------------------*/
 
-        // Buscar una persona
+        /* Buscar una persona */
         System.out.println("--------------------------------");
         System.out.println("--------------------------------");
         System.out.println(" Buscar persona ");
